@@ -8,7 +8,7 @@
 
 <br><br> 
 
-#### <span style="color:blue">I am passionate about Data Science, Machine Learning, and Data Engineering.</span>
+#### <span style="color:blue">I'm passionate about Data Science, Machine Learning, and Data Engineering.</span>
 
 <br><br>
 
