@@ -4,7 +4,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Emiliano+,Sosa;I'm+from+Argentina;I'm+a+Data+engineer;Be+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Emiliano+Sosa;I'm+from+Argentina;I'm+a+Data+Engineer;Be+Welcome!+ツ)
 
 <br><br> 
 
